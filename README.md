@@ -65,20 +65,11 @@ RegisterNetEvent('qb-menu:client:testButton', function(data)
 end)
 ```
 
-# License
+# Previews
+![image](https://user-images.githubusercontent.com/88847062/190896316-d2237c50-0713-40e7-9e88-200d9469e4fa.png)
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+![image](https://user-images.githubusercontent.com/88847062/190896331-a37ccc13-46e2-4658-bca8-76f92ff1c9b0.png)
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+# Credits
+- original script [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
